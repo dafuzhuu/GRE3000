@@ -76,7 +76,7 @@ def get_excel(filename, start_word, num):
             rows.append({'单词': word, '含义（可不填）': definitions, '例句（可不填）': examples,
                         '标签（可不填，多个标签请用英文逗号分隔）': 'GRE'})
         df = pd.concat([df, pd.DataFrame(rows)], ignore_index=True)
-        df.to_excel(f'result/生词本导入模版_{i+1}.xlsx', index=False)
+        df.to_excel(f'result/生词本导入模版_{i+1}.xlsx', index=False, header=False)
 
 
 if __name__ == '__main__':
