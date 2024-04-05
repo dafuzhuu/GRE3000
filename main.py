@@ -2,9 +2,17 @@ import re
 import pandas as pd
 
 
+def remove_text(text, pattern):
+    return re.sub(pattern, '', text)
+
+
 def parse_txt(filename, start_word):
     with open(filename, 'r', encoding='utf-8') as file:
         data = file.read()
+
+    # 删除特定文本
+    data = remove_text(data, r'本文档由陈琦和周书林共同制作完成。未经作者授权，严禁将此文档用于商业用途。')
+    data = remove_text(data,r'Made By Jason & Franklin. This Document Is Strictly Prohibited For Commercial Purposes Without Authorization.')
 
     entries = re.split(r'\n{3,}', data.strip())
 
