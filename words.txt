@@ -5676,11 +5676,7 @@ situations
 
 
 
-br
-
-
-
-assy []
+brassy []
 
 【考法 1】 adj. 厚脸皮的，不知羞耻的： displaying or marked by rude boldness
 
@@ -5712,11 +5708,7 @@ bravado [  ]
 
 
 
-bravu
-
-
-
-ra []
+bravura []
 
 【考法 1】 adj/n. 优秀演技： brilliant technique or style in performance
 
@@ -5776,9 +5768,7 @@ breach []
 
 
 
-brevit
-
-y []
+brevity []
 
 
 
@@ -5838,9 +5828,7 @@ of trust to influence that person's views or conduct.
 
 
 
-brid
-
-le
+bridle
 
 []
 
@@ -5896,9 +5884,7 @@ bristle []
 
 
 
-brittl
-
-e
+brittle
 
 []
 
@@ -5988,9 +5974,7 @@ browbeat
 
 
 
-brui
-
-t []
+bruit []
 
 【考法 1】 vt. （未经证实地）散播消息： to make (as a piece of information) the subject of common talk without
 
@@ -6104,11 +6088,7 @@ in number or quantity
 
 
 
-bu
-
-
-
-lly []
+bully []
 
 【考法 1】 n. 欺凌弱小者： a person who habitually treats others in an overbearing or intimidating manner
 
@@ -6128,13 +6108,9 @@ lly []
 
 
 
-bumptiou
+bumptious []
 
-s []
-
-【考法 1】 adj. 专横傲慢的，自以为是的： having a feeling of superiority that shows itself in an overbearing
-
-attitude
+【考法 1】 adj. 专横傲慢的，自以为是的： having a feeling of superiority that shows itself in an overbearing attitude
 
 【例】 a bumptious young man whose family wealth gave him a sense of entitlement 一 个 傲 慢 的 富 二 代 || be
 
@@ -6150,9 +6126,7 @@ self-assertive, supercilious
 
 
 
-bungl
-
-e []
+bungle []
 
 【考法 1】 vt. 办糟，失败： to act or work clumsily and awkwardly
 
@@ -6164,11 +6138,7 @@ e []
 
 
 
-bu
-
-
-
-oy
+buoy
 
 []
 
@@ -6184,11 +6154,7 @@ oy
 
 
 
-buoya
-
-
-
-nt []
+buoyant []
 
 【考法 1】 adj. 有浮力的： capable of floating
 
@@ -6276,9 +6242,7 @@ burnish
 
 
 
-buttres
-
-s []
+buttress []
 
 【考法 1】 n. 扶墙： a projecting structure for supporting or giving stability to a wall or building
 
@@ -6356,11 +6320,7 @@ cachet []
 
 
 
-cacopho
-
-
-
-ny
+cacophony
 
 []
 
@@ -11760,9 +11720,7 @@ curtail []
 
 
 
-cyni
-
-c
+cynic
 
 []
 
@@ -11778,9 +11736,7 @@ c
 
 
 
-dabbl
-
-e
+dabble
 
 []
 
@@ -11828,9 +11784,7 @@ daft []
 
 
 
-dai
-
-s
+dais
 
 [ ]
 
@@ -11844,9 +11798,7 @@ s
 
 
 
-dall
-
-y
+dally
 
 []
 
@@ -11900,9 +11852,7 @@ damper []
 
 
 
-dand
-
-y
+dandy
 
 []
 
@@ -11924,11 +11874,7 @@ y
 
 
 
-dan
-
-[
-
-k ]
+dank []
 
 【考法 1】 adj. 阴湿的： slightly or moderately wet
 
@@ -12024,9 +11970,7 @@ daredevil
 
 
 
-dar
-
-t
+dart
 
 []
 
@@ -12136,9 +12080,7 @@ dearth
 
 
 
-debacl
-
-e
+debacle
 
 [ ]
 
@@ -12152,9 +12094,7 @@ e
 
 
 
-debar
-
-k
+debark
 
 []
 
@@ -12172,11 +12112,7 @@ k
 
 
 
-deb
-
-
-
-ase
+debase
 
 []
 
@@ -12262,9 +12198,7 @@ debunk []
 
 
 
-debu
-
-t
+debut
 
 []
 
@@ -12476,9 +12410,7 @@ e ]
 
 
 
-deficienc
-
-y
+deficiency
 
 []
 
@@ -12494,9 +12426,7 @@ y
 
 
 
-defil
-
-e
+defile
 
 []
 
@@ -12526,11 +12456,7 @@ e
 
 
 
-d
-
-[
-
-eft ]
+deft []
 
 【考法 1】 adj. 灵巧的，熟练的： characterized by facility and skill
 
@@ -12554,11 +12480,7 @@ defuse []
 
 
 
-def
-
-[
-
-y ]
+defy []
 
 【考法 1】 vt. 反抗，违抗： to go against the commands, prohibitions, or rules of
 
@@ -12598,9 +12520,7 @@ dehydrate []
 
 
 
-deif
-
-y
+deify
 
 []
 
@@ -12650,11 +12570,7 @@ DELUSION DELUGE DELVE DEMAGOGUE DEMANDING
 
 
 
-dej
-
-
-
-ect
+deject
 
 []
 
@@ -12690,11 +12606,7 @@ deleterious []
 
 
 
-deliber
-
-
-
-ate
+deliberate
 
 []
 
@@ -12756,9 +12668,7 @@ delusion []
 
 
 
-delug
-
-e
+deluge
 
 []
 
@@ -12776,11 +12686,7 @@ e
 
 
 
-del
-
-
-
-ve
+delve
 
 []
 
@@ -13068,11 +12974,7 @@ DEPOSIT DEPRAVITY DEPRECATE DEPRECIATE DEPRESSED
 
 
 
-depl
-
-[
-
-ete ]
+deplete []
 
 【考法 1】 vt. 耗尽，使衰竭： to decrease the fullness of; to make complete use of
 
@@ -13088,9 +12990,7 @@ ete ]
 
 
 
-deplor
-
-e
+deplore
 
 []
 
@@ -13110,9 +13010,7 @@ e
 
 
 
-deplo
-
-y
+deploy
 
 []
 
@@ -13136,11 +13034,7 @@ deportation []
 
 
 
-depo
-
-[
-
-se ]
+depose []
 
 【考法 1】 vt. 发誓作证： to testify to under oath or by affidavit
 
@@ -13198,9 +13092,7 @@ deposit []
 
 
 
-depravit
-
-y
+depravity
 
 []
 
@@ -13334,11 +13226,7 @@ deracinate []
 
 
 
-dereli
-
-[
-
-ct ]
+derelict []
 
 【考法 1】 adj. 玩忽职守的, 不认真的： lacking a sense of duty; marked by a carelessly easy manner
 
@@ -13362,11 +13250,7 @@ ct ]
 
 
 
-derid
-
-[
-
-e ]
+deride []
 
 【考法 1】 vt. 嘲弄，嘲笑： to speak of or treat with contemptuous mirth
 
@@ -13394,11 +13278,7 @@ e ]
 
 
 
-derivati
-
-
-
-ve
+derivative
 
 []
 
@@ -37841,12 +37721,6 @@ parody []
 【考法 1】 n. （以嘲笑原作作者的）模仿作品： a literary or musical work in which the style of an author or work
 
 is closely imitated for comic effect or in ridicule
-
-
-
-
-
-Made By Jason & Franklin. This Document Is Strictly Prohibited For Commercial Purposes Without Authorization.
 
 【例】 The Back Dormitory Boys specialize in parody of Backstreet Boys. 后舍男生擅长恶搞后街男孩。
 
